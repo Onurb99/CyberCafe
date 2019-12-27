@@ -1,0 +1,21 @@
+.imagem-carrosel {
+    object-fit: cover;
+    height: 400px;
+}
+
+.font-titulo {
+    font-family: "Pacifico", cursive;
+}
+
+.cor-titulo {
+    color: #4c311f;
+}
+
+.cor-botao {
+    background-color: darkred;
+    color: white;
+}
+
+.cor-borda {
+    border-color: darkred;
+}
