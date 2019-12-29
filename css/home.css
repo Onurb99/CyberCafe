@@ -1,6 +1,12 @@
 .imagem-carrosel {
     object-fit: cover;
+    /* object-position: 0 80%; */
     height: 400px;
+}
+
+.imagem-card {
+    object-fit: cover;
+    height: 200px;
 }
 
 .font-titulo {
@@ -18,4 +24,8 @@
 
 .cor-borda {
     border-color: darkred;
+}
+
+.card-layout {
+    max-width: 18rem;
 }
